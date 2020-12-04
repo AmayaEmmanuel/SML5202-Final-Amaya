@@ -33,8 +33,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="beach.jpg">
-        <img src="beach.jpg" alt="beach" style="width:33%">
+      <a href="https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/beach.jpg">
+        <img src="https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/beach.jpg" alt="beach" style="width:100%">
         <div class="caption">
           <p>The Spanish sea's waves are picturesque and calming.</p>
         </div>
@@ -43,8 +43,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="city.jpg">
-        <img src="city.jpg" alt="city" style="width:33%">
+      <a href="https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/city.jpg">
+        <img src="https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/city.jpg" alt="city" style="width:100%">
         <div class="caption">
           <p>The city layout gives Spain a Modern feel, especially during the night. The city lights, under the stars, make an unforgettable view.</p>
         </div>
@@ -53,8 +53,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="town.jpg">
-        <img src="town.jpg" alt="town" style="width:33%">
+      <a href="https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/town.jpg">
+        <img src="https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/town.jpg" alt="town" style="width:100%">
         <div class="caption">
           <p>The towns of Spain are always lively and filled with people culture, providing a real sense of community.</p>
         </div>
