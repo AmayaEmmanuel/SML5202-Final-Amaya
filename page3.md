@@ -11,7 +11,7 @@
     </div>
   </div>
 
-<h2>Below is an interactive and informative video that explains the tenses in more detail.&nbsp;</h2>
+<h2>Below is an interactive and informative video that explains the tenses in more detail in a simplified way.&nbsp;</h2>
 <iframe width="560" height="315" src="<iframe width="807" height="605" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Sources</h3>
