@@ -1,5 +1,5 @@
 <h1>Grammar Tenses and Conjugations</h1>
-<div class="row">
+<div class="ing-responsive">
   <div class="col-md-4">
     <div class="img-responsive">
       <a href="grammar .png">
