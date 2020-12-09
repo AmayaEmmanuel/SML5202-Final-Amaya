@@ -1,7 +1,7 @@
 <h1>Grammar Tenses and Conjugations</h1>
 <div class="row">
   <div class="col-md-4">
-    <div class="thumbnail">
+    <div class="img-responsive">
       <a href="grammar .png">
         <img src="grammar .png" alt="grammar " style="width:100%">
         <div class="caption">
