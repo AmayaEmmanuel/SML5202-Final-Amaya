@@ -12,7 +12,7 @@
   </div>
 
 <h2>Below is an interactive and informative video that explains the tenses in more detail in a simplified way.&nbsp;</h2>
-<iframe width="560" height="315" src="<iframe width="807" height="605" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="807" height="605" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Sources</h3>
 <p>2020.&nbsp;<em>Spanish Verb Tenses</em>. [image] Available at: &lt;https://external-preview.redd.it/GrIUiQk1rJi40JpbbZ9DDVyxFHnAqPIhkdUqI1XJFYY.png?auto=webp&amp;s=e3a1b6dd0388baa041f6be7e93fdaab8e493c241&gt; [Accessed 9 December 2020].</p>
