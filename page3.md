@@ -16,4 +16,4 @@
 
 <h3>Sources</h3>
 <p>2020.&nbsp;<em>Spanish Verb Tenses</em>. [image] Available at: &lt;https://external-preview.redd.it/GrIUiQk1rJi40JpbbZ9DDVyxFHnAqPIhkdUqI1XJFYY.png?auto=webp&amp;s=e3a1b6dd0388baa041f6be7e93fdaab8e493c241&gt; [Accessed 9 December 2020].</p>
-<p>Spanish and Portuguese, P., 2020.&nbsp;<em>Overview Of Spanish Verb Tenses, Conjugations, And Uses</em>. [video] Available at: &lt;https://www.youtube.com/watch?v=t18OTWXtpqg&gt; [Accessed 9 December 2020].</p>
+<p>Professor Jason Spanish and Portuguese, 2020.&nbsp;<em>Overview Of Spanish Verb Tenses, Conjugations, And Uses</em>. [video] Available at: &lt;https://www.youtube.com/watch?v=t18OTWXtpqg&gt; [Accessed 9 December 2020].</p>
