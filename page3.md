@@ -7,12 +7,10 @@
     <div class="img-responsive">
       <a href="grammar .png">
         <img class="img-responsive" src="grammar .png" alt="Grammar">
-        <div class="caption">
           <p>Above is a table showing the Indicative tenses of Spanish such as the present, the past and future tenses. However in Spanish there are more than just the tenses in the indicative mood, there is also the subjunctive mood. This table shows the conjugations for each of the tenses in these two moods and gives some examples of irregular verbs and their specific conjugations.</p>
         </div>
       </a>
     </div>
-  </div>
 
 
 <h3>Sources</h3>
