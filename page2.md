@@ -4,9 +4,14 @@
   <img class="img-responsive" src="map.jpg" alt="map " width="900" height="900"> 
 </div>
 
-<div class="container">
-  <h3>Popover Example</h3>
-  <a href="#" data-toggle="popover" title="Popover Header" data-content="Some content inside the popover">Toggle popover</a>
+<div class="container"> 
+  <ul class="list-inline">	 
+    <li><a href="#" title="Galicia" data-toggle="popover" data-placement="top" data-content="Content">Top left</a></li>
+    <li><a href="#" title="Asturias" data-toggle="popover" data-placement="bottom" data-content="Content">Bottom</a></li>
+    <li><a href="#" title="Cantabria" data-toggle="popover" data-placement="left" data-content="Content">Left</a></li>
+    <li><a href="#" title="Páis Vasco" data-toggle="popover" data-placement="right" data-content="Content">Right</a></li>
+  </ul>
+</div>
 </div>
 
 <script>
@@ -14,6 +19,4 @@ $(document).ready(function(){
     $('[data-toggle="popover"]').popover();   
 });
 </script>
-
-
 	
