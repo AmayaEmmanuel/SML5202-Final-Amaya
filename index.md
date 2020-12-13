@@ -1,6 +1,9 @@
 <h1>Welcome</h1>
 <h2>Introduction</h2>
 <p>Hi. My name's Amaya and this is my Spanish website for beginners <strong>SML5202</strong>.</p>
+<div class="container">        
+  <img src="bienvenido.jpg" class="img-circle" alt="bienvenido" width="304" height="236"> 
+</div>
 <p>Here are three facts about me:</p>
 <ol>
 <li>I was born in England, so my first language is English.</li>
