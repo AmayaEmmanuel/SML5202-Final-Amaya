@@ -1,9 +1,12 @@
 <h1>Grammar Tenses and Conjugations</h1>
 <h2>Below is an interactive and informative video that explains the tenses in detail.&nbsp;</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <div style="border: solid 2px green; width:564px; margin:auto;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>caption</p>
+</div>
+
 
 <h3>Below is a table showing the Indicative tenses of Spanish such as the present, the past and future tenses. However in Spanish there are more than just the tenses in the indicative mood, there is also the subjunctive mood. </h3>
 
@@ -13,11 +16,10 @@
   <img class="img-responsive" src="grammar .png" alt="Grammar " width="900" height="900"> 
 
 
-<div style="border: solid 2px green; width:564px; margin:auto">
-	
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--BHuKeveg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 		
 	
 	
