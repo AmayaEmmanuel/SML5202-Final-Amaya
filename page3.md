@@ -6,11 +6,11 @@
 
 <h3>Below is a table showing the Indicative tenses of Spanish such as the present, the past and future tenses. However in Spanish there are more than just the tenses in the indicative mood, there is also the subjunctive mood. </h3>
 
-<div class="container">
+
   <h2>Spanish Verb Tense Table</h2>
   <p>This table shows the conjugations for each of the tenses in the two moods and gives some examples of irregular verbs and their specific conjugations.</p>
   <img class="img-responsive" src="grammar .png" alt="Grammar " width="900" height="900"> 
-</div>
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--BHuKeveg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
