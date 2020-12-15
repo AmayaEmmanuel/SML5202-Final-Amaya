@@ -3,7 +3,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="border: solid 2px green; width:564px; margin:auto">
+<div style="border: solid 2px green; width:564px; margin:auto;">
 
 <h3>Below is a table showing the Indicative tenses of Spanish such as the present, the past and future tenses. However in Spanish there are more than just the tenses in the indicative mood, there is also the subjunctive mood. </h3>
 
