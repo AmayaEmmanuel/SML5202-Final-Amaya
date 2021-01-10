@@ -15,7 +15,7 @@
 
 <p>&nbsp;</p>
 <p>
-<img src="king fernando and queen isabel.jpeg" alt="king fernando and queen isabel" style="float:left;width:125px;height:95px;"> 
+<img src="king fernando and queen isabel.jpeg" alt="king fernando and queen isabel" style="float:right;width:125px;height:95px;"> 
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain was not always united; it used to be a collection of regions, in fact, it was the alliance and marriage between Fernando of Aragon and Isabel of Castile that united the kingdom in the fifteenth century.</span></li>
  </p>
 
