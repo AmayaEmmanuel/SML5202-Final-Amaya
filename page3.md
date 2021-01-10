@@ -8,23 +8,7 @@
 <p>This video explains the formation and uses of the 15 verb tenses in Spanish, with examples. This is one of the best videos I've came across, he really breaks the concepts down for you. </p>
 </div>
 
-
-<h3>Below is a table showing Spanish's Indicative tenses such as the present, past and future tenses. However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below. </h3>
-
-
-  <h2><em>Spanish Verb Tense Table</em></h2>
-  <p>This table shows the conjugations for each of the tenses in the two moods and gives some examples of irregular verbs and their specific conjugations.</p>
-  <div style=" width:904px; margin:auto;">
-  <img class="img-responsive" src="grammar .png" alt="Grammar " width="900" height="900"> 
-</div>
-
-
-
-
-		
-	
-	
-<h2><em>Regular Verb Conjugation Examples</em></h2>
+<h3><em>Regular Verb Conjugation Examples. Below is a table showing Spanish's Indicative tenses such as the present, past and future tenses.</em></h3>
   <p>The table table shows how the verb is conjugated. The infinitive ending is removed first, leaving the stem then the apporpriate endings are added based on which tense you would like to conjugate to. </p>            
   <table class="table table-striped">
     <thead>
@@ -32,7 +16,8 @@
         <th>Infinitivo</th>
 	      <th>Stem</th>
         <th>Presente first person singular</th>
-        <th>Preterito first person singular</th>
+        <th>Pretérito Perfecto first person singular</th>
+	      <th>Futuro first person singular</th>
       </tr>
     </thead>
     <tbody>
@@ -41,22 +26,35 @@
 	      <td>viv</td>
         <td>vivo</td>
         <td>viví</td>
+	      <td>viviré</td>
       </tr>
       <tr>
         <td>comer</td>
 	 <td>com</td>
         <td>como</td>
         <td>comí</td>
+	      <td>comeré</td>
       </tr>
       <tr>
         <td>andar</td>
 	      <td>and</td>
         <td>ando</td>
         <td>andé</td>
+	      <td>andaré</td>
       </tr>
       </tr>
     </tbody>
   </table>
+
+<h3>However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below. </h3>
+
+
+  <h2><em>Spanish Verb Tense Table</em></h2>
+  <p>This table shows the conjugations for each of the tenses in the two moods and gives some examples of irregular verbs and their specific conjugations.</p>
+  <div style=" width:904px; margin:auto;">
+  <img class="img-responsive" src="grammar .png" alt="Grammar " width="900" height="900"> 
+</div>
+
 
 
 <h4>Sources</h4>
