@@ -16,7 +16,7 @@ var idioms = [
 'Jueves',
 'Viernes',
 'Sábado'
-'Domingo'
+'Domingo',
 ];
 
 var examples = [
