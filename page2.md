@@ -58,8 +58,8 @@ img {display: block; margin-left: auto; margin-right: auto}
 
 <p>&nbsp;</p>
 <p>
-<img src="tiara .jpeg" alt="tiara" style="float:right;width:125px;height:95px;">
-<div class="container">        
+<div class="container">   
+<img src="tiara .jpeg" alt="tiara" style="float:right;width="304";height="236">   
 <img src="crown male.jpeg" alt="crown male" class="img-circle" width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Spanish royal family are a symbol of persistence and unity for Spain, a constitutional monarchy.</span></li>
@@ -87,43 +87,43 @@ img {display: block; margin-left: auto; margin-right: auto}
   
 <p>&nbsp;</p>
 <p>
-<img src="don quixote.jpeg" alt="don quixote" style="float:right;width:95px;height:125px;">
+<img src="don quixote.jpeg" alt="don quixote" style="float:right;width:125px;height:225px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Don Quixote written by Miguel de Cervantes in 1605 is considered the first modern novel ever written and is notably one of the most imperative pieces of Spanish literature written in the Spanish and Western literature worlds.</span></li>
 </p>
   
 <p>&nbsp;</p>
 <p> 
-<img src="tomatina.jpeg" alt="tomatina" style="float:right;width:125px;height:95px;">
+<img src="tomatina.jpeg" alt="tomatina" style="float:right;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">In the La Tomatina festival every year in August, after squashing the tomatoes everyone is cheered to throw as many tomatoes as they can and according to the statistics, this is roughly 150,000 a year.</span></li>
 </p>
   
 <p>&nbsp;</p>
 <p>
-<img src="ratoncito.jpeg" alt="ratoncito" style="float:right;width:125px;height:95px;">
+<img src="ratoncito.jpeg" alt="ratoncito" style="float:right;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Instead of the tooth fairy, Hispanic people believe in Ratoncito Pérez, who is a mouse with magical powers. The concepts are the same where the children would put the tooth under the pillow and receive money or a small gift for it the next day.</span></li>
  </p>
   
 <p>&nbsp;</p>
 <p>
-<img src="pork.jpeg" alt="pork" style="float:right;width:125px;height:95px;">
+<img src="pork.jpeg" alt="pork" style="float:right;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Guinness World Records has given the title of the oldest restaurant in the world to the Restaurante Botín, which has been open since 1725 and its special dish is roast suckling pig.</span></li>
  </p>
   
 <p>&nbsp;</p>
 <p>
-<img src="busy madrid.jpeg" alt="busy madrid" style="float:right;width:125px;height:95px;">
+<img src="busy madrid.jpeg" alt="busy madrid" style="float:right;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">According to the statistics in 2018, Spain was the 2nd most visited place with 82.8 million tourists, coming 2nd to France.</span></li>
  </p>
   
 <p>&nbsp;</p>
 <p>
-<img src="lotto.jpeg" alt="lotto" style="float:right;width:95px;height:125px;">
+<img src="lotto.jpeg" alt="lotto" style="float:right;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The biggest lottery in the world is held just before Christmas in Spain and is called El Gordo meaning the "Big One" it had the prize of €2.24 billion in 2019.</span></li>
  </p>
   
 <p>&nbsp;</p>
 <p>
-<img src="football.jpeg" alt="football" style="float:left;width:125px;height:95px;">
+<img src="football.jpeg" alt="football" style="float:left;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain loves football, La Roja has been at the top of FIFA's world ranking and have won the 2010 World Cup along with championships in Europe in 2008 and 12.</span></li>
 </p>
 </style>
