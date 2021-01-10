@@ -1,18 +1,18 @@
-<h1>Grammar Tenses and Conjugations</h1>
-<h2>Below is an interactive and informative video that explains the tenses in detail.&nbsp;</h2>
+<h1><strong>Grammar Tenses and Conjugations</strong></h1>
+<h2><em>Below is an interactive and informative video that explains the tenses in detail.&nbsp;</em></h2>
 
 <div style="border: solid 2px green; width:564px; margin:auto;">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t18OTWXtpqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>caption</p>
+<p>This video explains the formation and uses of the 15 verb tenses in Spanish, with examples. This is one of the best videos I've came across, he really breaks the concepts down for you. </p>
 </div>
 
 
-<h3>Below is a table showing the Indicative tenses of Spanish such as the present, the past and future tenses. However in Spanish there are more than just the tenses in the indicative mood, there is also the subjunctive mood. </h3>
+<h3>Below is a table showing Spanish's Indicative tenses such as the present, past and future tenses. However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below. </h3>
 
 
-  <h2>Spanish Verb Tense Table</h2>
+  <h2><em>Spanish Verb Tense Table</em></h2>
   <p>This table shows the conjugations for each of the tenses in the two moods and gives some examples of irregular verbs and their specific conjugations.</p>
   <div style=" width:904px; margin:auto;">
   <img class="img-responsive" src="grammar .png" alt="Grammar " width="900" height="900"> 
@@ -24,12 +24,13 @@
 		
 	
 	
-<h2>Striped Rows</h2>
-  <p>The .table-striped class adds zebra-stripes to a table:</p>            
+<h2><em>Regular Verb Conjugation Examples</em></h2>
+  <p>The table table shows how the verb is conjugated. The infinitive ending is removed first, leaving the stem then the apporpriate endings are added based on which tense you would like to conjugate to. </p>            
   <table class="table table-striped">
     <thead>
       <tr>
         <th>Infinitivo</th>
+	      <th>Stem</th>
         <th>Presente first person singular</th>
         <th>Preterito first person singular</th>
       </tr>
@@ -37,18 +38,22 @@
     <tbody>
       <tr>
         <td>vivir</td>
+	      <td>viv</td>
         <td>vivo</td>
         <td>viví</td>
       </tr>
       <tr>
         <td>comer</td>
+	 <td>com</td>
         <td>como</td>
         <td>comí</td>
       </tr>
       <tr>
         <td>andar</td>
+	      <td>and</td>
         <td>ando</td>
         <td>andé</td>
+      </tr>
       </tr>
     </tbody>
   </table>
