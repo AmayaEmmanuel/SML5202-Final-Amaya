@@ -54,6 +54,7 @@
 
 <h4>Sources</h4> 
 <p>
+Mark Manson. 2021. 22 Tips For Learning A Foreign Language. [online] Available at: <https://markmanson.net/foreign-language> [Accessed 8 January 2021].
 Www2.nkfust.edu.tw. 2021. Intro To CALL. [online] Available at: http://www2.nkfust.edu.tw/~emchen/CALL/unit1.htm#types [Accessed 8 January 2021].
 Youtu.be. 2021. [online] Available at: <https://youtu.be/--BHuKeveg4> [Accessed 8 January 2021].
   </p>
