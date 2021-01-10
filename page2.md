@@ -126,3 +126,37 @@ img {display: block; margin-left: auto; margin-right: auto}
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain loves football, La Roja has been at the top of FIFA's world ranking and have won the 2010 World Cup along with championships in Europe in 2008 and 12.</span></li>
 </p>
 
+<h4>Sources</h4>
+<p>
+Encyclopedia Britannica. 2021. Andalusia | Region, Spain. [online] Available at: <https://www.britannica.com/place/Andalusia-region-Spain> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Aragon | Region, Spain. [online] Available at: <https://www.britannica.com/place/Aragon-region-Spain> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Asturias | Region, Spain. [online] Available at: <https://www.britannica.com/place/Asturias-region-Spain> [Accessed 8 January 2021].
+Encyclopedia Britannica. 2021. Balearic Islands | History, Capital, Population, & Facts. [online] Available at: <https://www.britannica.com/place/Balearic-Islands> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Basque Country | Region, Spain. [online] Available at: <https://www.britannica.com/place/Basque-Country-region-Spain> [Accessed 8 January 2021].
+Encyclopedia Britannica. 2021. Canary Islands | Geography, Facts, & History. [online] Available at: <https://www.britannica.com/place/Canary-Islands> [Accessed 8 January 2021].
+Encyclopedia Britannica. 2021. Cantabria | Autonomous Area And Region, Spain. [online] Available at: <https://www.britannica.com/place/Cantabria-autonomous-area-and-region-Spain> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Catalonia | Geography, Independence Movement, & History. [online] Available at: <https://www.britannica.com/place/Catalonia> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Extremadura | Region, Spain. [online] Available at: <https://www.britannica.com/place/Extremadura> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Galicia | History, Location, Economy, & Facts. [online] Available at: <https://www.britannica.com/place/Galicia-region-Spain> [Accessed 8 January 2021].
+Encyclopedia Britannica. 2021. La Rioja | Region, Spain. [online] Available at: <https://www.britannica.com/place/La-Rioja-region-Spain> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Madrid | Layout, People, Economy, Culture, & History. [online] Available at: <https://www.britannica.com/place/Madrid> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Murcia | Region, Spain. [online] Available at: <https://www.britannica.com/place/Murcia-region-Spain> [Accessed 8 January 2021].
+
+Encyclopedia Britannica. 2021. Navarra | Autonomous Area, Spain. [online] Available at: <https://www.britannica.com/place/Navarra> [Accessed 8 January 2021].
+Encyclopedia Britannica. 2021. Valencia | Autonomous Area, Spain. [online] Available at: <https://www.britannica.com/place/Valencia-autonomous-area-Spain> [Accessed 8 January 2021].
+Encyclopedia Britannica. 2021. Pamplona | Spain. [online] Available at: <https://www.britannica.com/place/Pamplona-city-Spain> [Accessed 8 January 2021].
+
+Expat Guide to Spain | Expatica. 2021. 30 Facts About Spain: Everything You Need To Know | Expatica. [online] Available at: <https://www.expatica.com/es/moving/about/facts-about-spain-109108/> [Accessed 8 January 2021].
+
+Spanish-web.com. 2021. The Regions And Provinces Of Spain. [online] Available at: <https://www.spanish-web.com/regions/> [Accessed 8 January 2021].
+
+TravelRepublic Blog. 2021. The 17 Wonderful Regions Of Spain Uncovered | Travel Republic. [online] Available at: <https://www.travelrepublic.co.uk/blog/spain-the-regions> [Accessed 8 January 2021].
+</p> 
