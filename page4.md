@@ -2,7 +2,7 @@
 <p>I believe learning is a lot more effective when you are having fun so here are some vocabulary games to help with your memorization and overall learning</p>
 
 
-<h2>Word for Today</h2>
+<h2><em>Words for the Days:)</em></h2>
 <dl id="quote"></dl>
 <!--<script src="script.js"></script>-->
 <p><button onclick="loadQuote()">See another word</button></p>
