@@ -1,53 +1,51 @@
 <h1>Vocabulary Games</h1>
 <p>I believe learning is a lot more effective when you are having fun so here are some vocabulary games to help with your memorization and overall learning</p>
 
-<iframe src="https://amayazemmanuel.h5p.com/content/1291194507686359497/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
 <h3>Word for Today</h3>
 <p id="quote"></p>
 <script>
 var idioms = [ 
-'Lunes = Monday.', 
-'Martes = Tuesday.', 
-'Miércoles = Wednesday.',    
-'Jueves = Thursday.',
-'Viernes = Friday.',
-'Sábado = Saturday.'
-'Domingo = Sunday.', 
-'Enero = January.', 
-'Febrero = February.',    
-'Marzo = March.',
-'Abril = April.',
-'Mayo = May.'
-'Junio = June.', 
-'Julio = July.', 
-'Agosto = August.',    
-'Septiembre = September.',
-'Octubre = October.',
-'Noviembre = November.'
-'Diciembre = December.', 
+'Lunes', 
+'Martes', 
+'Miércoles',    
+'Jueves',
+'Viernes',
+'Sábado'
+'Domingo', 
+'Enero', 
+'Febrero ',    
+'Marzo',
+'Abril',
+'Mayo '
+'Junio', 
+'Julio', 
+'Agosto',    
+'Septiembre',
+'Octubre ',
+'Noviembre '
+'Diciembre', 
 ];
 
 var examples = [
-'Example: <i>Lunes = Monday.</i>', 
-'Example: <i>Martes = Tuesday.</i>', 
-'Example: <i>Miércoles = Wednesday.</i>',
-'Example: <i>Jueves = Thursday.</i>',
-'Example: <i>Viernes = Friday.</i>',
-'Example: <i>Sábado = Saturday.</i>'
-'Example: <i>Domingo = Sunday.</i>', 
-'Example: <i>Enero = January.</i>', 
-'Example: <i>Febrero = February.</i>',
-'Example: <i>Marzo = March.</i>',
-'Example: <i>Abril = April.</i>',
-'Example: <i>Mayo = May.</i>'
-'Example: <i>Junio = June.</i>', 
-'Example: <i>Julio = July.</i>', 
-'Example: <i>Agosto = August.</i>',
-'Example: <i>JSeptiembre = September.</i>',
-'Example: <i>Octubre = October.</i>',
-'Example: <i>Noviembre = November.</i>'
-'Example: <i>Diciembre = December.</i>'
+'Example: <i> Monday.</i>', 
+'Example: <i> Tuesday.</i>', 
+'Example: <i> Wednesday.</i>',
+'Example: <i> Thursday.</i>',
+'Example: <i> Friday.</i>',
+'Example: <i> Saturday.</i>'
+'Example: <i> Sunday.</i>', 
+'Example: <i> January.</i>', 
+'Example: <i> February.</i>',
+'Example: <i>March.</i>',
+'Example: <i> April.</i>',
+'Example: <i> May.</i>'
+'Example: <i> June.</i>', 
+'Example: <i> July.</i>', 
+'Example: <i> August.</i>',
+'Example: <i>J September.</i>',
+'Example: <i> October.</i>',
+'Example: <i> November.</i>'
+'Example: <i> December.</i>'
 ];
 
 var quoteNo;
@@ -66,3 +64,6 @@ function loadQuote() {
 	}
 loadQuote();
 </script>
+
+
+<iframe src="https://amayazemmanuel.h5p.com/content/1291194507686359497/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
