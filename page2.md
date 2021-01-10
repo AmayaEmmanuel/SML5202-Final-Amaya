@@ -7,6 +7,7 @@
  <iframe src="https://amayazemmanuel.h5p.com/content/1291194067892799907/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h1><span style="font-weight: 400;">Fun Facts About Spain</span></h1>
+
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain is the 2nd largest country in the EU, coming in second to France the country has an area of about 506,000 kilometres squared including the Canary Islands and the other territories of Spain. It also had the 5th largest population in the whole of Europe, providing a home to 47 million. Barcelona alone has a population of 5.5 million, not to mention Madrid's population of 6.5 million.
 </ul> 
@@ -15,7 +16,7 @@
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain was not always united; it used to be a collection of regions, in fact, it was the alliance and marriage between Fernando of Aragon and Isabel of Castile that united the kingdom in the fifteenth century.</span></li>
 </ul>
-<img src="king fernando and queen isabel.jpeg" alt="king fernando and queen isabel" style="float:left;width:125px;height:95px;"
+<img src="king fernando and queen isabel.jpeg" alt="king fernando and queen isabel" style="float:left;width:125px;height:95px;">
 <p>&nbsp;</p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spanish is the 2nd most spoken language in the world, coming second to Mandarin. Despite Spain being home to other languages for instance Catalan, there are about 440 million native Spanish speakers.</span></li>
