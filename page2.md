@@ -58,7 +58,7 @@
 <p>
 <img src="tiara .jpeg" alt="tiara" style="float:left;width:125px;height:95px;">
 <div class="container">        
-<img src="crown male.jpeg alt="crown male" class="img-circle" width="304" height= "236">
+<img src="crown male.jpeg" alt="crown male" class="img-circle" width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Spanish royal family are a symbol of persistence and unity for Spain, a constitutional monarchy.</span></li>
 </p>
@@ -91,7 +91,7 @@
   
 <p>&nbsp;</p>
 <p> 
-<img src="tomatina.jpeg" alt="tomatina" style="float:left;width:125px;height:95px;">
+<img src="tomatina.jpeg" alt="tomatina" style="float:right;width:125px;height:95px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">In the La Tomatina festival every year in August, after squashing the tomatoes everyone is cheered to throw as many tomatoes as they can and according to the statistics, this is roughly 150,000 a year.</span></li>
 </p>
   
@@ -103,7 +103,7 @@
   
 <p>&nbsp;</p>
 <p>
-<img src="pork.jpeg" alt="pork" style="float:left;width:125px;height:95px;">
+<img src="pork.jpeg" alt="pork" style="float:right;width:125px;height:95px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Guinness World Records has given the title of the oldest restaurant in the world to the Restaurante Botín, which has been open since 1725 and its special dish is roast suckling pig.</span></li>
  </p>
   
@@ -115,7 +115,7 @@
   
 <p>&nbsp;</p>
 <p>
-<img src="lotto.jpeg" alt="lotto" style="float:left;width:95px;height:125px;">
+<img src="lotto.jpeg" alt="lotto" style="float:right;width:95px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The biggest lottery in the world is held just before Christmas in Spain and is called El Gordo meaning the "Big One" it had the prize of €2.24 billion in 2019.</span></li>
  </p>
   
