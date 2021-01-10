@@ -21,7 +21,9 @@
 
 <p>&nbsp;</p>
 <p>
-<img src="native.jpeg" alt="native" width="125" height= "95">
+<div class="container">        
+<img src="native.jpeg" class="img-circle" alt="native" width="304" height= "236"> 
+</div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spanish is the 2nd most spoken language in the world, coming second to Mandarin. Despite Spain being home to other languages for instance Catalan, there are about 440 million native Spanish speakers.</span></li>
 </p>
 
