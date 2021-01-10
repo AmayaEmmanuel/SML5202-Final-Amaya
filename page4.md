@@ -50,3 +50,12 @@ loadQuote();
 
 <h3><em>Below is a recording of all the numbers in Spanish from 0-100. After each number pause the audio and practise the pronunciation. This will help you a LOT!</em></h3>
 <iframe src="https://amayazemmanuel.h5p.com/content/1291217393792543957/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h4> Sources </h4>
+<p>
+2021. [image] Available at: <https://youtu.be/--BHuKeveg4> [Accessed 8 January 2021].
+
+Mark Manson. 2021. 22 Tips For Learning A Foreign Language. [online] Available at: <https://markmanson.net/foreign-language> [Accessed 8 January 2021].
+
+Www2.nkfust.edu.tw. 2021. Intro To CALL. [online] Available at: <http://www2.nkfust.edu.tw/~emchen/CALL/unit1.htm#types> [Accessed 8 January 2021].
+</p>
