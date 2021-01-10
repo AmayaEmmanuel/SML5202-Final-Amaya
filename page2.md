@@ -22,7 +22,7 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="native.jpeg" class="center" alt="native" width="304" height= "236"> 
+<img src="native.jpeg" alt="native" class="center" width="304" height= "236"> 
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spanish is the 2nd most spoken language in the world, coming second to Mandarin. Despite Spain being home to other languages for instance Catalan, there are about 440 million native Spanish speakers.</span></li>
 </p>
@@ -33,7 +33,7 @@
 <img src="nudity .jpeg" class="img-circle" alt="nudity" width="304" height= "236">  
 </div>
 <div class="container">        
-<img src="shocked .jpeg" class="center" alt="shocked" width="304" height= "236"> 
+<img src="shocked .jpeg" alt="shocked" class="center" width="304" height= "236"> 
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain</span></li>
 </p>
@@ -41,7 +41,7 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="couple.jpeg" class="img-square" alt="couple" width="236" height= "304">
+<img src="couple.jpeg" alt="couple" class="img-square" width="236" height= "304">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The life expectancy of Spanish people is the 2nd highest in the world. Coming 2nd to the Japanese. Spanish people are expected to live to 83. Looking deeper into the statistics Spanish women outlive their men by a couple years, with their expectancy being 85 compared to the men's 79.</span></li>
 </p>
@@ -49,7 +49,7 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="church .jpeg" class="center" alt="church" width="304" height= "236">
+<img src="church .jpeg" alt="church" class="center" width="236" height= "304">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">In Spanish culture, religion bears significant importance but according to statistics, only 13.6 per cent of the community goes to church every week. The image shows the Sagrada Familia Cathedral in Spain.</span></li>
 </p>
@@ -58,7 +58,7 @@
 <p>
 <img src="tiara .jpeg" alt="tiara" style="float:left;width:125px;height:95px;">
 <div class="container">        
-<img src="crown male.jpeg class="img-circle" alt="crown male" width="304" height= "236">
+<img src="crown male.jpeg alt="crown male" class="img-circle" width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Spanish royal family are a symbol of persistence and unity for Spain, a constitutional monarchy.</span></li>
 </p>
@@ -72,7 +72,7 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="paella.jpeg" class="center" alt="paella" width="304" height= "236">
+<img src="paella.jpeg" alt="paella" class="center" width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Despite visitors seeing Paella as a national dish, the locals consider it a Valencian one.</span></li>
 </p>
