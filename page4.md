@@ -3,18 +3,29 @@
 
 <iframe src="https://amayazemmanuel.h5p.com/content/1291194507686359497/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<h3>Word for Today</h3>
 <p id="quote"></p>
-
-
-
 <script>
 var idioms = [ 
-'comer = to eat.', 
-'Tickled pink = to be extremely pleased.', 
-'Caught red-handed = to catch someone in the act of doing something.',    
-'White lie = a small lie that is told to be polite or avoid hurting someone’s feelings.',
-'Feel blue = Be depressed or sad. The use of blue to mean “sad” dates from the late 1300s.',
-'See red = Become very angry suddenly.'
+'Lunes = Monday.', 
+'Martes = Tuesday.', 
+'Miércoles = Wednesday.',    
+'Jueves = Thursday.',
+'Viernes = Friday.',
+'Sábado = Saturday.'
+'Domingo = Sunday.', 
+'Enero = January.', 
+'Febrero = February.',    
+'Marzo = March.',
+'Abril = April.',
+'Mayo = May.'
+'Junio = June.', 
+'Julio = July.', 
+'Agosto = August.',    
+'Septiembre = September.',
+'Octubre = October.',
+'Noviembre = November.'
+'Diciembre = December.', 
 ];
 
 var examples = [
