@@ -34,6 +34,9 @@
 </div>
 <div class="container">        
 <img src="shocked .jpeg" alt="shocked"  width="304" height= "236">
+    <style>
+img {display: block; margin-left: auto; margin-right: auto}
+  </style>
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain</span></li>
 </p>
@@ -57,7 +60,7 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">   
-<img src="tiara .jpeg" alt="tiara" style="float:right;width="304";height="236">   
+<img src="tiara .jpeg" alt="tiara" class="img-circle" width="304" height= "236">   
 <img src="crown male.jpeg" alt="crown male" class="img-circle" width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Spanish royal family are a symbol of persistence and unity for Spain, a constitutional monarchy.</span></li>
@@ -70,10 +73,8 @@
 </p>
 
 <p>&nbsp;</p>
-<p>
-<div class="container">        
-<img src="paella.jpeg" alt="paella" class="center" width="304" height= "236">
-</div>
+<p>      
+<img src="paella.jpeg" alt="paella" style="float:right;width:125px;height:95px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Despite visitors seeing Paella as a national dish, the locals consider it a Valencian one.</span></li>
 </p>
 
@@ -85,7 +86,7 @@
   
 <p>&nbsp;</p>
 <p>
-<img src="don quixote.jpeg" alt="don quixote" style="float:right;width:125px;height:225px;">
+<img src="don quixote.jpeg" alt="don quixote" style="float:right;width:125px;height:195px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Don Quixote written by Miguel de Cervantes in 1605 is considered the first modern novel ever written and is notably one of the most imperative pieces of Spanish literature written in the Spanish and Western literature worlds.</span></li>
 </p>
   
@@ -115,7 +116,7 @@
   
 <p>&nbsp;</p>
 <p>
-<img src="lotto.jpeg" alt="lotto" style="float:right;width:225px;height:125px;">
+<img src="lotto.jpeg" alt="lotto" style="float:right;width:225px;height:105px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The biggest lottery in the world is held just before Christmas in Spain and is called El Gordo meaning the "Big One" it had the prize of €2.24 billion in 2019.</span></li>
  </p>
   
