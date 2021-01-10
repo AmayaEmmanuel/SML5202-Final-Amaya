@@ -8,6 +8,8 @@
 
 <h1><span style="font-weight: 400;">Fun Facts About Spain</span></h1>
 
+  <style>
+img {display: block; margin-left: auto; margin-right: auto}
 <p>
 <img src="flag .jpg" alt="flag" style="float:right;width:95px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain is the 2nd largest country in the EU, coming in second to France the country has an area of about 506,000 kilometres squared including the Canary Islands and the other territories of Spain. It also had the 5th largest population in the whole of Europe, providing a home to 47 million. Barcelona alone has a population of 5.5 million, not to mention Madrid's population of 6.5 million.</span></li>
@@ -22,10 +24,7 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="native.jpeg" alt="native" "width:50%;"> 
-  <style>
-img {display: block; margin-left: auto; margin-right: auto}
-</style>
+<img src="native.jpeg" alt="native"  width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spanish is the 2nd most spoken language in the world, coming second to Mandarin. Despite Spain being home to other languages for instance Catalan, there are about 440 million native Spanish speakers.</span></li>
 </p>
@@ -36,10 +35,7 @@ img {display: block; margin-left: auto; margin-right: auto}
 <img src="nudity .jpeg" class="img-circle" alt="nudity" width="304" height= "236">  
 </div>
 <div class="container">        
-<img src="shocked .jpeg" alt="shocked" "width:50%;">
-    <style>
-img { display: block;margin-left: auto; margin-right: auto;}
- </style>
+<img src="shocked .jpeg" alt="shocked"  width="304" height= "236">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain</span></li>
 </p>
@@ -130,4 +126,4 @@ img { display: block;margin-left: auto; margin-right: auto;}
 <img src="football.jpeg" alt="football" style="float:left;width:125px;height:95px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain loves football, La Roja has been at the top of FIFA's world ranking and have won the 2010 World Cup along with championships in Europe in 2008 and 12.</span></li>
 </p>
-
+</style>
