@@ -13,7 +13,7 @@
 <p>One of my favourite language learning websites is&nbsp;<a href="https://www.duolingo.com">Duolingo</a></p>
 <p>I made this website for beginners who want to learn about Spain, the European Spanish language and Spanish Culture quickly and easily. As a part of my course at Queen Mary University I am able to study abroad to improve my Spanish even more and this is just one of the many ways a beginner in Spanish can improve.</p>
 
-<p>Before we begin, lets look at some Fun Facts about Spain:</p>	
+<p>Before we begin, lets look at some facts about Spain:</p>	
 <ul>
 <li>Although Spanish is the main langauage spoken in Spain, there are 4 other official languages; Catalan (Catalonia and the Balearic Islands), Basque (Basque Country and Navarre), Galician (Galicia) and Aranese (Catalonia).</li>
 <li> Approximately 406 million people in the world speak Spanish and about 47 million live in Spain as of 2019.</li> 
