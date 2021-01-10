@@ -8,8 +8,6 @@
 
 <h1><span style="font-weight: 400;">Fun Facts About Spain</span></h1>
 
-  <style>
-img {display: block; margin-left: auto; margin-right: auto}
 <p>
 <img src="flag .jpg" alt="flag" style="float:right;width:95px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain is the 2nd largest country in the EU, coming in second to France the country has an area of about 506,000 kilometres squared including the Canary Islands and the other territories of Spain. It also had the 5th largest population in the whole of Europe, providing a home to 47 million. Barcelona alone has a population of 5.5 million, not to mention Madrid's population of 6.5 million.</span></li>
@@ -126,4 +124,4 @@ img {display: block; margin-left: auto; margin-right: auto}
 <img src="football.jpeg" alt="football" style="float:left;width:225px;height:125px;">
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain loves football, La Roja has been at the top of FIFA's world ranking and have won the 2010 World Cup along with championships in Europe in 2008 and 12.</span></li>
 </p>
-</style>
+
