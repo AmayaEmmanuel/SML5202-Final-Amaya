@@ -13,18 +13,7 @@ var idioms = [
 'Viernes',
 'Sábado'
 'Domingo', 
-'Enero', 
-'Febrero ',    
-'Marzo',
-'Abril',
-'Mayo '
-'Junio', 
-'Julio', 
-'Agosto',    
-'Septiembre',
-'Octubre ',
-'Noviembre '
-'Diciembre', 
+
 ];
 
 var examples = [
@@ -35,18 +24,6 @@ var examples = [
 'Example: <i> Friday.</i>',
 'Example: <i> Saturday.</i>'
 'Example: <i> Sunday.</i>', 
-'Example: <i> January.</i>', 
-'Example: <i> February.</i>',
-'Example: <i>March.</i>',
-'Example: <i> April.</i>',
-'Example: <i> May.</i>'
-'Example: <i> June.</i>', 
-'Example: <i> July.</i>', 
-'Example: <i> August.</i>',
-'Example: <i>J September.</i>',
-'Example: <i> October.</i>',
-'Example: <i> November.</i>'
-'Example: <i> December.</i>'
 
 ];
 
