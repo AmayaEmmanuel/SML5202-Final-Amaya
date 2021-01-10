@@ -48,5 +48,5 @@ loadQuote();
 
 <iframe src="https://amayazemmanuel.h5p.com/content/1291217370654367327/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h3> Below is a recording of all the numbers in Spanish from 1-100. After each number pause the audio and practise the pronunciation. This will help you a LOT!
+<h3><em>Below is a recording of all the numbers in Spanish from 1-100. After each number pause the audio and practise the pronunciation. This will help you a LOT!</em></h3>
 <iframe src="https://amayazemmanuel.h5p.com/content/1291217393792543957/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
