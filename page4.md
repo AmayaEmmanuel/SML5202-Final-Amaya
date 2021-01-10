@@ -1,5 +1,5 @@
 <h1>Vocabulary Games</h1>
-<p>I believe learning is a lot more effective when you are having fun so here are some vocabulary games to help with your memorization and overall learning</p>
+<p>I believe learning is a lot more effective when you are having fun so here are some vocabulary games to help with your memorization and overall learning!</p>
 
 
 <h2><em>Words of the Days:)</em></h2>
