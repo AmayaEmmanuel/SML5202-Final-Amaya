@@ -1,8 +1,31 @@
 <h1>Vocabulary Games</h1>
 <p>I believe learning is a lot more effective when you are having fun so here are some vocabulary games to help with your memorization and overall learning</p>
 
-<h3>Word for Today</h3>
+<html>
+<body>
+<script>
+function light(sw) {
+  var pic;
+  if (sw == 0) {
+    pic = "pic_bulboff.gif"
+  } else {
+    pic = "pic_bulbon.gif"
+  }
+  document.getElementById('myImage').src = pic;
+}
+</script>
 
+<img id="myImage" src="pic_bulboff.gif" width="100" height="180">
+
+<p>
+<button type="button" onclick="light(1)">YAY, I'm ready</button>
+<button type="button" onclick="light(0)">I'm not quite ready yet</button>
+</p>
+
+</body>
+</html>
+
+<h3>Word for Today</h3>
 
 <script>
 var idioms = [ 
