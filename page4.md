@@ -16,7 +16,6 @@ var idioms = [
 'Jueves',
 'Viernes',
 'Sábado'
-'Domingo',
 ];
 
 var examples = [
@@ -26,7 +25,6 @@ var examples = [
 'Translation: <i> Thursday.</i>',
 'Translation: <i> Friday.</i>',
 'Translation: <i> Saturday.</i>'
-'Translation: <i> Sunday.</i>'
 
 ];
 
@@ -47,6 +45,6 @@ function loadQuote() {
 loadQuote();
 </script>
 
-
+<iframe src="https://amayazemmanuel.h5p.com/content/1291217370654367327/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://amayazemmanuel.h5p.com/content/1291194507686359497/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://amayazemmanuel.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
