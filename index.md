@@ -73,5 +73,11 @@
 <p>
 2021. [image] Available at: <https://www.istockphoto.com/photo/spanish-welcome-sign-with-hotel-call-bell-gm901344264-248665196> [Accessed 8 January 2021].
 
+2021. [image] Available at: <https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/beach.jpg> [Accessed 8 January 2021].
+
+2021. [image] Available at: <https://camo.githubusercontent.com/3d50c9266aabe3b0b08178d25c528ad12e82a3f234b76bbc0cc743863cbaa015/68747470733a2f2f616d617961656d6d616e75656c2e6769746875622e696f2f534d4c353230322d32302d416d6179612d456d6d616e75656c2f746573742f636974792e6a7067> [Accessed 8 January 2021].
+
+2021. [image] Available at: <https://amayaemmanuel.github.io/SML5202-20-Amaya-Emmanuel/test/town.jpg> [Accessed 8 January 2021].
+
 Worlddata.info. 2021. Spain: Country Data And Statistics. [online] Available at: <https://www.worlddata.info/europe/spain/index.php> [Accessed 8 January 2021].
 	</p>
