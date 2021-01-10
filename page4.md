@@ -29,13 +29,25 @@ var idioms = [
 ];
 
 var examples = [
-'Example: <i>como una manzaña.</i>', 
-'Example: <i>Your grandma was tickled pink that you called on her birthday!</i>', 
-'Example: <i>He was caught red-handed while stealing those biscuits.</i>',
-'Example: <i>I didn’t like her dress, but I told a white lie because I didn’t want to offend her.</i>',
-'Example: <i>I was really feeling blue after she told me she was leaving.</i>',
-'Example: <i>The thought of Piers with Nicole made her see red.</i>'
-
+'Example: <i>Lunes = Monday.</i>', 
+'Example: <i>Martes = Tuesday.</i>', 
+'Example: <i>Miércoles = Wednesday.</i>',
+'Example: <i>Jueves = Thursday.</i>',
+'Example: <i>Viernes = Friday.</i>',
+'Example: <i>Sábado = Saturday.</i>'
+'Example: <i>Domingo = Sunday.</i>', 
+'Example: <i>Enero = January.</i>', 
+'Example: <i>Febrero = February.</i>',
+'Example: <i>Marzo = March.</i>',
+'Example: <i>Abril = April.</i>',
+'Example: <i>Mayo = May.</i>'
+'Example: <i>Junio = June.</i>', 
+'Example: <i>Julio = July.</i>', 
+'Example: <i>Agosto = August.</i>',
+'Example: <i>JSeptiembre = September.</i>',
+'Example: <i>Octubre = October.</i>',
+'Example: <i>Noviembre = November.</i>'
+'Example: <i>Diciembre = December.</i>'
 ];
 
 var quoteNo;
