@@ -42,11 +42,10 @@
         <td>andé</td>
 	      <td>andaré</td>
       </tr>
-      </tr>
     </tbody>
   </table>
 
-<h3>However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below. </h3>
+<h3><em>However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below.</em></h3>
 
 
   <h2><em>Spanish Verb Tense Table</em></h2>
