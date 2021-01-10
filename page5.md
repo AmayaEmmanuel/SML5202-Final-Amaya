@@ -51,3 +51,9 @@
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<h4>Sources</h4> 
+<p>
+Www2.nkfust.edu.tw. 2021. Intro To CALL. [online] Available at: http://www2.nkfust.edu.tw/~emchen/CALL/unit1.htm#types [Accessed 8 January 2021].
+2021. [image] Available at: <https://youtu.be/--BHuKeveg4> [Accessed 8 January 2021].
+  </p>
