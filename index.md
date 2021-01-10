@@ -69,3 +69,9 @@
 	
 	
 <hr />
+<h4>Sources</h4> 
+<p>
+2021. [image] Available at: <https://www.istockphoto.com/photo/spanish-welcome-sign-with-hotel-call-bell-gm901344264-248665196> [Accessed 8 January 2021].
+
+Worlddata.info. 2021. Spain: Country Data And Statistics. [online] Available at: <https://www.worlddata.info/europe/spain/index.php> [Accessed 8 January 2021].
+	</p>
