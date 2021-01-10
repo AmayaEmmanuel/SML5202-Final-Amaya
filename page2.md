@@ -9,8 +9,8 @@
 <h1><span style="font-weight: 400;">Fun Facts About Spain</span></h1>
 
 <p>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain is the 2nd largest country in the EU, coming in second to France the country has an area of about 506,000 kilometres squared including the Canary Islands and the other territories of Spain. It also had the 5th largest population in the whole of Europe, providing a home to 47 million. Barcelona alone has a population of 5.5 million, not to mention Madrid's population of 6.5 million.
-  </p>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain is the 2nd largest country in the EU, coming in second to France the country has an area of about 506,000 kilometres squared including the Canary Islands and the other territories of Spain. It also had the 5th largest population in the whole of Europe, providing a home to 47 million. Barcelona alone has a population of 5.5 million, not to mention Madrid's population of 6.5 million.</span></li>
+</p>
 <img src="flag .jpg" alt="flag" style="float:right;width:95px;height:125px;">
 <p>&nbsp;</p>
 <p>
