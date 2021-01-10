@@ -16,15 +16,17 @@ var idioms = [
 'Jueves',
 'Viernes',
 'Sábado'
+'Domingo'
 ];
 
 var examples = [
-'Example: <i> Monday.</i>', 
-'Example: <i> Tuesday.</i>', 
-'Example: <i> Wednesday.</i>',
-'Example: <i> Thursday.</i>',
-'Example: <i> Friday.</i>',
-'Example: <i> Saturday.</i>'
+'Translation: <i> Monday.</i>', 
+'Translation: <i> Tuesday.</i>', 
+'Translation: <i> Wednesday.</i>',
+'Translation: <i> Thursday.</i>',
+'Translation: <i> Friday.</i>',
+'Translation: <i> Saturday.</i>'
+'Translation: <i> Sunday.</i>'
 
 ];
 
