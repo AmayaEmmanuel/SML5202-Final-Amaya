@@ -22,12 +22,9 @@
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="native.jpeg" alt="native" "width:50%;" <style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+<img src="native.jpeg" alt="native" "width:50%;"> 
+  <style>
+img {display: block; margin-left: auto; margin-right: auto}
 </style>
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spanish is the 2nd most spoken language in the world, coming second to Mandarin. Despite Spain being home to other languages for instance Catalan, there are about 440 million native Spanish speakers.</span></li>
@@ -39,12 +36,9 @@ img {
 <img src="nudity .jpeg" class="img-circle" alt="nudity" width="304" height= "236">  
 </div>
 <div class="container">        
-<img src="shocked .jpeg" alt="shocked" "width:50%;" <style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+<img src="shocked .jpeg" alt="shocked" "width:50%;">
+    <style>
+img { display: block;margin-left: auto; margin-right: auto;}
  </style>
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain</span></li>
