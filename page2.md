@@ -126,6 +126,8 @@ img {display: block; margin-left: auto; margin-right: auto}
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain loves football, La Roja has been at the top of FIFA's world ranking and have won the 2010 World Cup along with championships in Europe in 2008 and 12.</span></li>
 </p>
 
+<hr>
+
 <h4>Sources</h4>
 <p>
 Encyclopedia Britannica. 2021. Andalusia | Region, Spain. [online] Available at: <https://www.britannica.com/place/Andalusia-region-Spain> [Accessed 8 January 2021].
