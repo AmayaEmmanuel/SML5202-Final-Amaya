@@ -9,21 +9,25 @@
 <h1><span style="font-weight: 400;">Fun Facts About Spain</span></h1>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain is the 2nd largest country in the EU, coming in second to France the country has an area of about 506,000 kilometres squared including the Canary Islands and the other territories of Spain. It also had the 5th largest population in the whole of Europe, providing a home to 47 million. Barcelona alone has a population of 5.5 million, not to mention Madrid's population of 6.5 million.
- <img src="flag .jpg" alt="flag" style="float:right;width:95px;height:125px;">
-</ul>
+</ul> 
+<img src="flag .jpg" alt="flag" style="float:right;width:95px;height:125px;">
+
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spain was not always united; it used to be a collection of regions, in fact, it was the alliance and marriage between Fernando of Aragon and Isabel of Castile that united the kingdom in the fifteenth century.</span></li>
-<img src="king fernando and queen isabel.jpeg" alt="king fernando and queen isabel" style="float:left;width:125px;height:95px;"
 </ul>
+<img src="king fernando and queen isabel.jpeg" alt="king fernando and queen isabel" style="float:left;width:125px;height:95px;"
+
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Spanish is the 2nd most spoken language in the world, coming second to Mandarin. Despite Spain being home to other languages for instance Catalan, there are about 440 million native Spanish speakers.</span></li>
-<img src="native.jpeg" alt="native" style="float:right;width:125px;height:95px;">
 </ul>
+<img src="native.jpeg" alt="native" style="float:right;width:125px;height:95px;">
+
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain</span></li>
-<img src="nudity .jpeg" alt="nudity" style="float:left;width:125px;height:95px;">
- <img src="shocked .jpeg" alt="nudity" style="float:right;width:125px;height:95px;">
 </ul>
+<img src="nudity .jpeg" alt="nudity" style="float:left;width:125px;height:95px;">
+<img src="shocked .jpeg" alt="nudity" style="float:right;width:125px;height:95px;">
+
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The life expectancy of Spanish people is the 2nd highest in the world. Coming 2nd to the Japanese. Spanish people are expected to live to 83. Looking deeper into the statistics Spanish women outlive their men by a couple years, with their expectancy being 85 compared to the men's 79.</span></li>
 </ul>
