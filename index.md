@@ -30,7 +30,7 @@
 <li> If you do these things, learning Spanish with me should be a breeze!</li>
 	</ol>
 	
-<hr> </hr> 
+<hr> 
 
 <p> As you can see below Spain has various landscapes and this gives the natives, and people who want to live in Spain, numerous choices, you could live by the beach, in the city or in a local Spanish town. It really just depends on the culture and lifestyle that suits you. 
 	
