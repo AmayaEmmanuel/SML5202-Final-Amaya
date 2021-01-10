@@ -53,12 +53,10 @@ loadQuote();
 
 <h4> Sources </h4>
 <p>
-2021. [image] Available at: <https://youtu.be/--BHuKeveg4> [Accessed 8 January 2021].
+
 Cloudconvert.com. 2021. M4A To MP3 | Cloudconvert. [online] Available at: <https://cloudconvert.com/m4a-to-mp3> [Accessed 8 January 2021].
 
 Ict4lt.org. 2021. Warschauer: Computer-Assisted Language Learning. [online] Available at: <http://www.ict4lt.org/en/warschauer.htm> [Accessed 8 January 2021].
-
-Mark Manson. 2021. 22 Tips For Learning A Foreign Language. [online] Available at: <https://markmanson.net/foreign-language> [Accessed 8 January 2021].
 
 Www2.nkfust.edu.tw. 2021. Intro To CALL. [online] Available at: <http://www2.nkfust.edu.tw/~emchen/CALL/unit1.htm#types> [Accessed 8 January 2021].
 
