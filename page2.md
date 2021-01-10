@@ -38,7 +38,7 @@
 img {display: block; margin-left: auto; margin-right: auto}
   </style>
 </div>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlike other countries where nudity would be seen as public indecency, it is completely legal in Spain.</span></li>
 </p>
 
 <p>&nbsp;</p>
