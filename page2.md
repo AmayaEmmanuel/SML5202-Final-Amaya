@@ -127,6 +127,8 @@ img {display: block; margin-left: auto; margin-right: auto}
 </p>
 
 <hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h4>Sources</h4>
 <p>
