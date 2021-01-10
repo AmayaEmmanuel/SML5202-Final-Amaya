@@ -12,8 +12,6 @@ var idioms = [
 'Jueves',
 'Viernes',
 'Sábado'
-'Domingo', 
-
 ];
 
 var examples = [
@@ -23,7 +21,6 @@ var examples = [
 'Example: <i> Thursday.</i>',
 'Example: <i> Friday.</i>',
 'Example: <i> Saturday.</i>'
-'Example: <i> Sunday.</i>', 
 
 ];
 
