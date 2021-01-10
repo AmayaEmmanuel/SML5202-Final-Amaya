@@ -44,7 +44,7 @@ img {display: block; margin-left: auto; margin-right: auto}
 <p>&nbsp;</p>
 <p>
 <div class="container">        
-<img src="couple.jpeg" alt="couple" class="img-square" width="236" height= "304">
+<img src="couple.jpeg" alt="couple" class="img-circle" width="236" height= "304">
 </div>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The life expectancy of Spanish people is the 2nd highest in the world. Coming 2nd to the Japanese. Spanish people are expected to live to 83. Looking deeper into the statistics Spanish women outlive their men by a couple years, with their expectancy being 85 compared to the men's 79.</span></li>
 </p>
