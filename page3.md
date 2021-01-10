@@ -45,7 +45,7 @@
     </tbody>
   </table>
 
-<h3><em>However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below.</em></h3>
+<p><em>However in Spanish there are more than just these tenses in the indicative mood, there is also the subjunctive mood, as shown below.</em></p>
 
 
   <h2><em>Spanish Verb Tense Table</em></h2>
